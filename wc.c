@@ -1,5 +1,5 @@
-#define yes = 1
-#define no = 0
+#define YES  1
+#define NO  0
 
 main() 
 {
